@@ -10,5 +10,6 @@
         ・　Rails<br>
         ・　HTML/CSS<br>
         ・　Javascript<br>
+        ・　React<br>
         ・　BootStrap<br>
 
