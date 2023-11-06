@@ -13,6 +13,9 @@
         ・　HTML/CSS<br>
         ・　Javascript<br>
         ・　BootStrap<br>
+        ・　GoogleApps<br>
+          ・　GAS<br>
+        
 
 <h2>株式会社UKIYOcreateでエンジニアインターン</h2>
 2023/10~現在まで<br>
