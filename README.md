@@ -21,5 +21,5 @@
         ・　HTML/CSS<br>
         ・　Javascript<br>
         ・　React<br>
-        ・   typescript<br>
+        ・           typescript<br>
    
