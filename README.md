@@ -13,8 +13,7 @@
         ・　HTML/CSS<br>
         ・　Javascript<br>
         ・　BootStrap<br>
-        ・　GoogleApps<br>
-          ・　GAS<br>
+        ・　GAS<br>
         
 
 <h2>株式会社UKIYOcreateでエンジニアインターン</h2>
