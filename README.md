@@ -7,6 +7,8 @@
 
   
 <p>Webサービス開発支援<p>
+ 
+ <p>使用技術<p>
         ・　Rails<br>
         ・　HTML/CSS<br>
         ・　Javascript<br>
@@ -19,5 +21,5 @@
         ・　HTML/CSS<br>
         ・　Javascript<br>
         ・　React<br>
-        ・typescript<br>
+        ・   typescript<br>
    
