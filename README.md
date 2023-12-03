@@ -14,6 +14,7 @@
         ・　Javascript<br>
         ・　BootStrap<br>
         ・　GAS<br>
+        ・Heroku<br>
         
 
 <h2>株式会社UKIYOcreateでエンジニアインターン</h2>
@@ -24,5 +25,8 @@
         ・　Javascript<br>
         ・　React<br>
         ・　TypeScript<br>
+        ・ Styled-component<br>
+        ・ TailwindCSS<br>
+        ・ Vercel<br>
      
    
