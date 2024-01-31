@@ -25,7 +25,7 @@
         ・　Javascript<br>
         ・　React<br>
         ・　TypeScript<br>
-        ・　Styled-componen<br>
+        ・　Styled-components<br>
         ・　TailwindCSS<br>
         ・　Vercel<br>
       
