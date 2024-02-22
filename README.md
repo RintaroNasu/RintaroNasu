@@ -7,24 +7,38 @@
 
   
   - 使用技術
-    - Rails
-    - HTML/CSS
-    - JavaScript
-    - BootStrap
-    - GAS
-    - Heroku
+    - 開発言語
+      - HTML/CSS
+      - JavaScript
+      - Ruby
+    - フレームワーク
+      - Ruby on Rails
+    - ライブラリ
+      - BootStrap
+    - その他
+      - Gas
+      - Heroku
+      - Fly.io
   
 ## 株式会社UKIYOcreateでエンジニアインターン
 2023/10~現在まで<br>
+  #### 自社Webアプリの機能の改善
 
-<p>使用技術<p>
-        ・　HTML/CSS<br>
-        ・　Javascript<br>
-        ・　React<br>
-        ・　TypeScript<br>
-        ・　Styled-components<br>
-        ・　TailwindCSS<br>
-        ・　Vercel<br>
+  
+  - 使用技術
+    - 開発言語  
+      - HTML/CSS
+      - JavaScript
+      - TypeScript
+      - Ruby
+    - フレームワーク
+      - Next.js
+      - Ruby on Rails
+    - ライブラリ
+      - React
+      - Tailwindcss
+    - その他
+      - Vercel    
 
 ## Qiita Hackathon 2024
 <p>概要</p>
