@@ -44,7 +44,7 @@
 #### 概要
  <p>2024/02/10, 11 に開催されたQiita Hackathonの予選でチームでWebアプリケーションを開発しました.<br>
  デートプラン共有アプリ「Couple Canvas」を作成しました.</p>
- <p>詳細を記したGitHubは[こちら](#https://github.com/orgs/strongest-community/repositories)になります.</p>
+ <p>詳細を記したGitHubは[こちら](https://github.com/orgs/strongest-community/repositories)になります.</p>
  
  - 使用技術
     - 開発言語
