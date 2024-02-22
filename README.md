@@ -53,6 +53,8 @@
     - フレームワーク
       - Next.js
       - FastAPI
+    - ライブラリ
+      - Tailwindcss   
     
   
 
