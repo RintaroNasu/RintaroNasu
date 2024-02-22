@@ -42,8 +42,8 @@
 ## Qiita Hackathon 2024
 2024/2/10~2/11<br>
 #### 概要
- <p>2024/02/10, 11 に開催されたQiita Hackathonの予選でチームでWebアプリケーションを開発しました.<br>
- デートプラン共有アプリ「Couple Canvas」を作成しました.</p>
+ 2024/02/10, 11 に開催されたQiita Hackathonの予選でチームでWebアプリケーションを開発しました.<br>
+ デートプラン共有アプリ「Couple Canvas」を作成しました.
  詳細を記したGithubは[こちら](https://github.com/orgs/strongest-community/repositories)になります。
  
  - 使用技術
