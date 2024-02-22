@@ -5,7 +5,7 @@
   #### 1.プログラミングスクールで10人以上の受講生のWeb開発の支援
   #### 2.九州拠点のマーケティングリーダーなどを経験
   #### 使用技術
-        ・　Rails<br>
+        - Rails
         ・　HTML/CSS<br>
         ・　Javascript<br>
         ・　BootStrap<br>
