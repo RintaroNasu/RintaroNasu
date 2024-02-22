@@ -30,7 +30,7 @@
         ・　Vercel<br>
 
 <h2>Qiita Hackathon 2024</h2>
-概要<br>
+<p>概要</p>
  2024/02/10, 11 に開催されたQiita Hackathonの予選でWebアプリケーションを開発しました. <br>
  デートプラン共有アプリ「Couple Canvas」を作成しました。<br>
         
