@@ -17,7 +17,7 @@
         ・　 Heroku<br>
         
 
-<h2>株式会社UKIYOcreateでエンジニアインターン</h2>
+## 株式会社UKIYOcreateでエンジニアインターン
 2023/10~現在まで<br>
 
 <p>使用技術<p>
@@ -29,7 +29,7 @@
         ・　TailwindCSS<br>
         ・　Vercel<br>
 
-<h2>Qiita Hackathon 2024</h2>
+## Qiita Hackathon 2024
 <p>概要</p>
  2024/02/10, 11 に開催されたQiita Hackathonの予選でWebアプリケーションを開発しました. <br>
  デートプラン共有アプリ「Couple Canvas」を作成しました。<br>
