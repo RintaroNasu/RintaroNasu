@@ -6,13 +6,12 @@
   #### 2.九州拠点のマーケティングリーダーなどを経験
   - 使用技術
     - Rails
-        ・　HTML/CSS<br>
-        ・　Javascript<br>
-        ・　BootStrap<br>
-        ・　GAS<br>
-        ・　 Heroku<br>
-        
-
+    - HTML/CSS
+    - JavaScript
+    - BootStrap
+    - GAS
+    - Heroku
+  
 ## 株式会社UKIYOcreateでエンジニアインターン
 2023/10~現在まで<br>
 
