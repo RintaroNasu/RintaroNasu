@@ -28,7 +28,6 @@
   - 使用技術
     - 開発言語  
       - HTML/CSS
-      - JavaScript
       - TypeScript
       - Ruby
     - フレームワーク
@@ -43,8 +42,18 @@
 ## Qiita Hackathon 2024
 2024/2/10~2/11<br>
 #### 概要
- <p>2024/02/10, 11 に開催されたQiita Hackathonの予選でWebアプリケーションを開発しました.<br>
- デートプラン共有アプリ「Couple Canvas」を作成しました.</p>p
+ <p>2024/02/10, 11 に開催されたQiita Hackathonの予選でチームでWebアプリケーションを開発しました.<br>
+ デートプラン共有アプリ「Couple Canvas」を作成しました.</p>
+ 
+ - 使用技術
+    - 開発言語
+      - HTML/CSS
+      - TypeScript
+      - Python
+    - フレームワーク
+      - Next.js
+      - FastAPI
+    
         
 
    
