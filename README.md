@@ -32,7 +32,10 @@
       - Ruby
     - フレームワーク
       - Next.js
+      - Node.js
+      - Nest.js
       - Ruby on Rails
+      - Prisma
     - ライブラリ
       - React
       - Tailwindcss
