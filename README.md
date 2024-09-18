@@ -64,19 +64,19 @@
 2024/8/5~8/9<br>
 #### 概要
  GMOのサービスである『Conoha』について、5日間でサービス改善案を提案し、ゼロからサービスを開発しました。<br>
-　- 使用技術
-   - 開発言語
-     - HTML/CSS
-     - TypeScript
-     - Go
-   - フレームワーク
-     - Next.js
-     - echo
-   - ライブラリ
-     - TailWindcss
-     - Recoil
-   - データベース
-     -　Sqlite     
+  - 使用技術
+      - 開発言語
+        - HTML/CSS
+        - TypeScript
+        - Go
+      - フレームワーク
+        - Next.js
+        - echo
+      - ライブラリ
+        - Tailwindcss
+        - Recoil
+      - データベース
+        - Sqlite     
 
 ## 株式会社Media Do 2Days Internship
 　
