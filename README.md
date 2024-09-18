@@ -79,7 +79,17 @@
         - Sqlite     
 
 ## 株式会社Media Do 2Days Internship
-　
+2024/9/28~9/30<br>
+#### 概要
+ Media Doの取次システムのパフォーマンスチューニングを行いました.<br>
+ - 使用技術
+      - 言語
+        - Go
+      - フレームワーク
+        - Gin
+      - インフラ
+        - AWS       
+
   
 ## Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=RintaroNasu&show_icons=true">
