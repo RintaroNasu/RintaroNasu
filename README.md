@@ -23,6 +23,7 @@
 ## 株式会社UKIYOcreateでエンジニアインターン
 2023/10~現在まで<br>
 #### 自社Webアプリケーションの改修
+#### MAツールの作成
 
   
   - 使用技術
@@ -57,8 +58,26 @@
       - Next.js
       - FastAPI
     - ライブラリ
-      - Tailwindcss   
+      - Tailwindcss
+  
+## 2024GMO5Daysインターン
+2024/8/5~8/9<br>
+#### 概要
+　- 使用技術
+   - 開発言語
+     - HTML/CSS
+     - TypeScript
+     - Go
+   - フレームワーク
+     - Next.js
+     - echo
+   - ライブラリ
+     - TailWindcss
+     - Recoil
+   - データベース
+     -　Sqlite     
     
+　
   
 ## Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=RintaroNasu&show_icons=true">
