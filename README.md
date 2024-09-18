@@ -16,7 +16,7 @@
     - ライブラリ
       - BootStrap
     - その他
-      - Gas
+      - GAS
       - Heroku
       - Fly.io
   
