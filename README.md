@@ -41,7 +41,8 @@
       - React
       - Tailwindcss
     - その他
-      - Vercel    
+      - Vercel
+      - Docker    
 
 ## Qiita Hackathon 2024
 2024/2/10~2/11<br>
@@ -59,6 +60,8 @@
       - FastAPI
     - ライブラリ
       - Tailwindcss
+    - その他
+      - Docker  
   
 ## GMOインターネットグループ株式会社5Days Internship
 2024/8/5~8/9<br>
