@@ -81,7 +81,7 @@
       - データベース
         - Sqlite     
 
-## 株式会社Media Do 2Days Internship
+## 株式会社MediaDo 2Days Internship
 2024/9/28~9/30<br>
 #### 概要
  Media Doの取次システムのパフォーマンスチューニングを行いました.<br>
