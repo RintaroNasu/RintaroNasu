@@ -47,8 +47,8 @@
 ## Qiita Hackathon 2024
 2024/2/10~2/11<br>
 #### 概要
- 2024/02/10-2/11に開催された[Qiita Hackathon](https://qiita.com/official-campaigns/hackathon/2024-first)の予選で、デートプラン共有アプリ「Couple Canvas」を開発しました.<br>
- より詳細を記したGithubは[こちら](https://github.com/orgs/strongest-community/repositories)になります.
+ 2024/02/10-2/11に開催された[Qiita Hackathon](https://qiita.com/official-campaigns/hackathon/2024-first)の予選で、デートプラン共有アプリ「Couple Canvas」を開発<br>
+ より詳細を記したGithubは[こちら](https://github.com/orgs/strongest-community/repositories)
  
  - 使用技術
     - 開発言語
@@ -66,7 +66,7 @@
 ## GMOインターネットグループ株式会社5Days Internship
 2024/8/5~8/9<br>
 #### 概要
- GMOのサービスである『Conoha』について、5日間でサービス改善案を提案し、ゼロからサービスを開発しました。<br>
+ GMOのサービスである『Conoha』について、5日間でサービス改善案を提案し、ゼロからサービスを開発<br>
   - 使用技術
       - 開発言語
         - HTML/CSS
@@ -84,7 +84,7 @@
 ## 株式会社MediaDo 2Days Internship
 2024/9/28~9/30<br>
 #### 概要
- Media Doの取次システムのパフォーマンスチューニングを行いました.<br>
+ MediaDoの取次システムのパフォーマンス改善<br>
  - 使用技術
       - 開発言語
         - Go
