@@ -20,7 +20,7 @@
       - Heroku
       - Fly.io
   
-## 株式会社androotsでエンジニアインターン
+## androots株式会社でエンジニアインターン
 2023年10月~現在まで<br>
 #### 1.自社Webアプリケーションの改修
 #### 2.MAツールの作成
@@ -79,7 +79,7 @@
       - データベース
         - Sqlite     
 
-## 株式会社MediaDo 3Days Internship
+## MediaDo株式会社 3Days Internship
 2024年9月28日~2024年9月30日<br>
 #### 1.MediaDoの取次システムのパフォーマンス改善<br>
  - 使用技術
