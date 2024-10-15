@@ -93,8 +93,7 @@
   
 ## Github Stats
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RintaroNasu&theme=gruvbox">
-<img src="https://github-readme-stats.vercel.app/api?username=RintaroNasu&show_icons=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RintaroNasu&layout=compact">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RintaroNasu&theme=gruvbox">
 
 ## Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=RintaroNasu)](https://github.com/ryo-ma/github-profile-trophy)
