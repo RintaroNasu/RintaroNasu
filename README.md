@@ -1,4 +1,4 @@
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RintaroNasu">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RintaroNasu&theme=gruvbox">
 # Portfolio  
 
 ## プログラミングスクールでメンター業務
