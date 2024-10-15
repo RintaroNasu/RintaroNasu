@@ -94,5 +94,5 @@
 ## Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=RintaroNasu&show_icons=true">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RintaroNasu&layout=compact">
-[![trophy](https://github-profile-trophy.vercel.app/?username=RintaroNasu)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=RintaroNasu&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
