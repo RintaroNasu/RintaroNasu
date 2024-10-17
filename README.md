@@ -65,7 +65,7 @@
 ## GMOインターネットグループ株式会社5Days Internship
 2024年8月5日~2024年8月9日<br>
 #### 1.GMOのサービスである『Conoha』について、5日間でサービス改善案を提案し、ゼロからサービスを開発<br>
-##### ※[最終発表スライド](https://docs.google.com/presentation/d/1DEjSs7NlQTIi09wGvajy_jhsb1Xverjx/edit#slide=id.p15)はこちら
+※[最終発表スライド](https://docs.google.com/presentation/d/1DEjSs7NlQTIi09wGvajy_jhsb1Xverjx/edit#slide=id.p15)はこちら
   - 使用技術
       - 開発言語
         - HTML/CSS
