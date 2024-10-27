@@ -1,5 +1,8 @@
 # Portfolio  
 
+## Qiita Profile
+Qiitaでのマイページはこちら: [My Qiita Profile](https://qiita.com/RintaroNasu)
+
 ## プログラミングスクールでメンター業務
 2022年6月~2023年10月末まで　<br>
 #### 1.プログラミングスクールで10人以上の受講生のWebアプリ開発の支援
@@ -90,9 +93,7 @@
         - Gin
       - インフラ
         - AWS
-       
-## Qiita Profile
-Qiitaでのマイページはこちら: [My Qiita Profile](https://qiita.com/RintaroNasu)
+
   
 ## Github Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RintaroNasu&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
