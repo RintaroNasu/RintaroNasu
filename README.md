@@ -2,6 +2,7 @@
 
 ## Qiita Profile
 Qiitaでのマイページはこちら: [My Qiita Profile](https://qiita.com/RintaroNasu)
+日々学んだことをアウトプットしています.
 <br>
 <br>
 
