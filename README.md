@@ -89,8 +89,10 @@
       - フレームワーク
         - Gin
       - インフラ
-        - AWS       
-
+        - AWS
+       
+## Qiita Profile
+Qiitaでのマイページはこちら: [My Qiita Profile](https://qiita.com/RintaroNasu)
   
 ## Github Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RintaroNasu&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
