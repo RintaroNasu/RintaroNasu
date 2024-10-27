@@ -3,7 +3,6 @@
 ## Qiita Profile
 Qiitaでのマイページはこちら: [My Qiita Profile](https://qiita.com/RintaroNasu)<br>
 <br>
-<br>
 
 ## プログラミングスクールでメンター業務
 2022年6月~2023年10月末まで　<br>
