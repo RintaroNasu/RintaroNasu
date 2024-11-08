@@ -24,7 +24,7 @@ Qiitaでのマイページはこちら: [My Qiita Profile](https://qiita.com/Rin
       - Heroku
       - Fly.io
   
-## androots株式会社でエンジニアインターン
+## 株式会社and rootsでエンジニアインターン
 2023年10月~現在まで<br>
 #### 1.自社Webアプリケーションの改修
 #### 2.MAツールの作成
