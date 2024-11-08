@@ -48,6 +48,22 @@ Qiitaでのマイページはこちら: [My Qiita Profile](https://qiita.com/Rin
       - Vercel
       - Docker    
 
+## 株式会社マイクロベースでエンジニアインターン
+2024年10月~現在<br>
+#### 1.空室予測AI‧入居シミュレータWebアプリの改修
+
+  
+  - 使用技術
+    - 開発言語  
+      - HTML/CSS
+      - TypeScript
+      - Python
+    - フレームワーク
+      - Next.js
+      - Prisma
+    - ライブラリ
+      - Tailwindcss
+
 ## Qiita Hackathon 2024
 2024年2月10日~2024年2月11日<br>
 #### 1.2024/02/10-2/11に開催された[Qiita Hackathon](https://qiita.com/official-campaigns/hackathon/2024-first)の予選で、デートプラン共有アプリ「Couple Canvas」を開発<br>
