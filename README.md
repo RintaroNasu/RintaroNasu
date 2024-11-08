@@ -49,7 +49,7 @@ Qiitaでのマイページはこちら: [My Qiita Profile](https://qiita.com/Rin
       - Docker    
 
 ## 株式会社マイクロベースでエンジニアインターン
-2024年10月~現在<br>
+2024年10月~現在まで<br>
 #### 1.空室予測AI‧入居シミュレータWebアプリの改修
 
   
