@@ -100,7 +100,7 @@ Qiitaでのマイページはこちら: [My Qiita Profile](https://qiita.com/Rin
       - データベース
         - Sqlite     
 
-## MediaDo株式会社 3Days Internship
+## 株式会社MediaDo 3Days Internship
 2024年9月28日~2024年9月30日<br>
 #### 1.MediaDoの取次システムのパフォーマンス改善<br>
  - 使用技術
