@@ -63,6 +63,8 @@ Qiitaでのマイページはこちら: [My Qiita Profile](https://qiita.com/Rin
       - Prisma
     - ライブラリ
       - Tailwindcss
+    - デザインツール
+      - Figma 
 
 ## Qiita Hackathon 2024
 2024年2月10日~2024年2月11日<br>
