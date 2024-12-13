@@ -24,7 +24,7 @@ Qiitaでのマイページはこちら: [My Qiita Profile](https://qiita.com/Rin
       - Heroku
       - Fly.io
   
-## 株式会社and rootsでエンジニアインターン
+## and roots株式会社でエンジニアインターン
 2023年10月~現在まで<br>
 #### 1.自社Webアプリケーションの改修
 #### 2.MAツールの作成
@@ -48,7 +48,7 @@ Qiitaでのマイページはこちら: [My Qiita Profile](https://qiita.com/Rin
       - Vercel
       - Docker    
 
-## 株式会社マイクロベースでエンジニアインターン
+## マイクロベース株式会社でエンジニアインターン
 2024年10月~現在まで<br>
 #### 1.空室予測AI‧入居シミュレータWebアプリの改修
 
