@@ -25,7 +25,7 @@ Qiitaでのマイページはこちら: [My Qiita Profile](https://qiita.com/Rin
       - Fly.io
   
 ## and roots株式会社でエンジニアインターン
-2023年10月~現在まで<br>
+2023年10月~2025年3月<br>
 #### 1.自社Webアプリケーションの改修
 #### 2.MAツールの作成
 
@@ -49,7 +49,7 @@ Qiitaでのマイページはこちら: [My Qiita Profile](https://qiita.com/Rin
       - Docker    
 
 ## マイクロベース株式会社でエンジニアインターン
-2024年10月~現在まで<br>
+2024年10月~2025年3月<br>
 #### 1.空室予測AI‧入居シミュレータWebアプリの改修
 
   
@@ -65,6 +65,15 @@ Qiitaでのマイページはこちら: [My Qiita Profile](https://qiita.com/Rin
       - Tailwindcss
     - デザインツール
       - Figma 
+
+## 株式会社オプティムで内定者インターン
+2025年4月~現在まで<br>
+#### 1.Webサービスの「サスマネ」というサービスの開発
+
+
+  - 使用技術
+    - 開発言語  
+      - Golang
 
 ## Qiita Hackathon 2024
 2024年2月10日~2024年2月11日<br>
