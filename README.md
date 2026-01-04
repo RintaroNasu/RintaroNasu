@@ -51,7 +51,7 @@ Qiitaでのマイページはこちら: [My Qiita Profile](https://qiita.com/Rin
 
 ## 株式会社オプティムで内定者インターン
 2025年4月~現在まで<br>
-#### 1.「OPTiM サスマネ」 サービスのSaas連携処理の開発
+#### 「OPTiM サスマネ」 サービスのSaas連携処理の開発
 
 
   - 使用技術
@@ -62,7 +62,7 @@ Qiitaでのマイページはこちら: [My Qiita Profile](https://qiita.com/Rin
   
 ## GMOインターネットグループ株式会社5Days Internship
 2024年8月5日~2024年8月9日<br>
-#### 1.GMOのサービスである『Conoha』について、5日間でサービス改善案を提案し、ゼロからサービスを開発<br>
+#### GMOのサービスである『Conoha』について、5日間でサービス改善案を提案し、ゼロからサービスを開発<br>
   - 使用技術
       - 開発言語
         - HTML/CSS
