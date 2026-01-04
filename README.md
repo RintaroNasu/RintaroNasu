@@ -81,7 +81,6 @@ Qiitaでのマイページはこちら: [My Qiita Profile](https://qiita.com/Rin
 ## Github Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RintaroNasu&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RintaroNasu&theme=gruvbox">
 <table>
   <tr>
@@ -95,7 +94,6 @@ Qiitaでのマイページはこちら: [My Qiita Profile](https://qiita.com/Rin
 </table>
 
 ## Trophy
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=RintaroNasu)](https://github.com/ryo-ma/github-profile-trophy)
 
 
