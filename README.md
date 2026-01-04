@@ -46,25 +46,8 @@ Qiitaでのマイページはこちら: [My Qiita Profile](https://qiita.com/Rin
       - Tailwindcss
     - その他
       - Vercel
-      - Docker    
+      - Docker
 
-## マイクロベース株式会社でエンジニアインターン
-2024年10月~2025年3月<br>
-#### 1.空室予測AI‧入居シミュレータWebアプリの改修
-
-  
-  - 使用技術
-    - 開発言語  
-      - HTML/CSS
-      - TypeScript
-      - Python
-    - フレームワーク
-      - Next.js
-      - Prisma
-    - ライブラリ
-      - Tailwindcss
-    - デザインツール
-      - Figma 
 
 ## 株式会社オプティムで内定者インターン
 2025年4月~現在まで<br>
@@ -74,24 +57,7 @@ Qiitaでのマイページはこちら: [My Qiita Profile](https://qiita.com/Rin
   - 使用技術
     - 開発言語  
       - Golang
-
-## Qiita Hackathon 2024
-2024年2月10日~2024年2月11日<br>
-#### 1.2024/02/10-2/11に開催された[Qiita Hackathon](https://qiita.com/official-campaigns/hackathon/2024-first)の予選で、デートプラン共有アプリ「Couple Canvas」を開発<br>
-##### より詳細を記したGithubは[こちら](https://github.com/orgs/strongest-community/repositories)
- 
- - 使用技術
-    - 開発言語
-      - HTML/CSS
-      - TypeScript
-      - Python
-    - フレームワーク
-      - Next.js
-      - FastAPI
-    - ライブラリ
-      - Tailwindcss
-    - その他
-      - Docker  
+      
   
 ## GMOインターネットグループ株式会社5Days Internship
 2024年8月5日~2024年8月9日<br>
@@ -111,18 +77,7 @@ Qiitaでのマイページはこちら: [My Qiita Profile](https://qiita.com/Rin
       - データベース
         - Sqlite     
 
-## 株式会社MediaDo 3Days Internship
-2024年9月28日~2024年9月30日<br>
-#### 1.MediaDoの取次システムのパフォーマンス改善<br>
- - 使用技術
-      - 開発言語
-        - Go
-      - フレームワーク
-        - Gin
-      - インフラ
-        - AWS
 
-  
 ## Github Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RintaroNasu&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RintaroNasu&theme=gruvbox">
